@@ -1,16 +1,16 @@
 ## Hi there, I'm Omar 👋
 
-<!--
-**Omarrvv/Omarrvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a passionate developer interested in [Your Interests/Technologies]. Currently exploring the world of software development and always eager to learn new things!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Currently Working On
+
+[Project 1 description]
+[Project 2 description]
+
+## 🌱 Currently Learning
+
+[Technology/Skill 1]
+[Technology/Skill 2]
+[Technology/Skill 3]
